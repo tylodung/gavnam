@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://res.cloudinary.com/dz09rnbhe/image/upload/v1511348529/ori_qoyid7.jpg' title="Đà Lạt News" tagline="Cảnh đẹp, Địa điểm, Ẩm thực.." />
+        <Header image='https://res.cloudinary.com/dz09rnbhe/image/upload/v1511348529/ori_qoyid7.jpg' title="Đà Lạt Share" tagline="Cảnh đẹp, Địa điểm, Ẩm thực.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
