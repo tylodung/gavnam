@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 path: /thung-lung-vang
-title: Có nên đi tham quan Thung Lũng Vàng cách trung tâm 18km
+title: Có nên đi tham quan Thung Lũng Vàng cách trung tâm 18km?
 image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/vuon-hoa-o-thung-lung-vang-da-lat.jpg' 
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
+date: 2019-08-26T13:12:33.962Z
 description:
 
 ---
@@ -20,7 +20,7 @@ Khu du lịch tuyệt đẹp này nằm ở khu vực hồ Dankia Suối Vàng c
 
 **Giá vé:**
 
-Để có thể tham quan bạn cần mua vé vào cổng với giá 40.000đ cho người lớn và trẻ em là 20.000đ
+Để có thể tham quan bạn cần mua vé vào cổng với giá 40.000đ cho người lớn và trẻ em là 20.000đ.
 
 **Đường đi:**
 
@@ -30,7 +30,7 @@ Từ trung tâm Đà Lạt chỉ mất khoảng 20 phút theo hướng Tây Bắ
 
 Các bạn có thể đi đến thung lũng vàng theo các hướng sau:
 
-1.Từ chợ đêm đà lạt bạn đi theo đường Nguyễn Thái Học => đường Đinh Tiên Hoàng=> rẽ sang trái vào đường Nguyễn Công Trứ => rẽ phải ra đường Xô Viết Nghệ Tĩnh => Ankroet đi thêm khoảng 4km nữa là tới
+1.Từ chợ đêm đà lạt bạn đi theo đường Nguyễn Thái Học => đường Đinh Tiên Hoàng=> rẽ sang trái vào đường Nguyễn Công Trứ => rẽ phải ra đường Xô Viết Nghệ Tĩnh => Ankroet đi thêm khoảng 4km nữa là tới.
 
 2. Từ trung tâm Đà Lạt khu Hoà Bình => Đường Phan Đình Phùng => Xô Viết Nghệ Tĩnh Hoặc từ trung tâm => đường 3 tháng 2 => đường Hoàng Văn Thụ => Làng Hoa Vạn Thành => ngã 3 đi đèo Tà Nung => Tay Phải có bảng chỉ dẫn đi khoảng 8km => Thung Lũng Vàng.
 

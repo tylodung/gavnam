@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 path: /thung-lung-tinh-yeu
-title: Thung Lũng Tình Yêu có gì khi tăng giá vé lên 100.000đ
+title: Thung Lũng Tình Yêu có gì khi tăng giá vé lên 100.000đ?
 image: 'https://i.ytimg.com/vi/TQ3tr7hXV1s/maxresdefault.jpg' 
 tags:
   - Love
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
+date: 2019-08-26T13:12:33.962Z
 description:
  
 ---
@@ -29,7 +29,7 @@ Cái tên Thung Lũng Tình Yêu ra đời năm 1953 khi ông Nguyễn Vỹ làm
 Để có được hồ Đa Thiện đẹp như ngày nay là do vào năm 1972 có một con đập được xây dựng vắt qua thung lũng tạo nên một cảnh tượng vô cùng thơ mộng.
 
 
-Tên gọi thung lũng tình yêu bằng tiếng Pháp được in trên cỏ ở hình trên, còn thung lũng tình yêu tiếng anh là Valley of Love
+Tên gọi thung lũng tình yêu bằng tiếng Pháp được in trên cỏ ở hình trên, còn thung lũng tình yêu tiếng anh là Valley of Love.
 
 **Thung lũng tình yêu nằm ở đâu**
 
@@ -57,7 +57,7 @@ Với tổng diện tích lên tới 140ha thung lũng tình yêu là địa ch�
 
 Một trong những nơi đẹp nhất trong thung lũng tình yêu là đồi Vọng Cảnh. Có hai con đường để đi lên đồi này là đi bộ theo đường mòn hoặc đi theo các bậc tam cấp đã được xây dựng sẵn. Vào mỗi mùa hoa Mimosa nở thì đây chính là nơi ngắm loài hoa này đẹp nhất. Ở trên đồi Vọng Cảnh này còn có hoa viên Tiểu Sơn Lâm với các cây đại thụ được tạo thế trông vô cùng đẹp mắt.
 
-Bao quanh thung lũng tình yêu là Hồ Đa Thiện và rừng thông quanh năm xanh ngắt một màu
+Bao quanh thung lũng tình yêu là Hồ Đa Thiện và rừng thông quanh năm xanh ngắt một màu.
 
 Mê cung trong thung lũng tình yêu.
 

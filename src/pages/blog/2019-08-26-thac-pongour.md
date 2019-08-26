@@ -6,7 +6,7 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/thac-pongour-lam-dong.
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
+date: 2019-08-26T13:12:33.962Z
 description:
 
 ---
@@ -22,15 +22,15 @@ Nằm ở phía nam Đà Lạt khoảng 50km về hướng Đức Trọng . Nế
 
 **Địa chỉ:**
 
-Thôn Tân Nghĩa xã Ninh Gia huyện Đức Trọng Tỉnh Lâm Đồng
+Thôn Tân Nghĩa xã Ninh Gia huyện Đức Trọng Tỉnh Lâm Đồng.
 
 **Giá vé**
 
-Chỉ với 20.000đ bạn sẽ được tham quan ngay một trong những thác nước đẹp nhất của Tây Nguyên
+Chỉ với 20.000đ bạn sẽ được tham quan ngay một trong những thác nước đẹp nhất của Tây Nguyên.
 
 **Số điện thoại:**
 
-Nếu có việc cần liên hệ với thác Pongour bạn có thể liên hệ ngay qua số: 02633 675 202
+Nếu có việc cần liên hệ với thác Pongour bạn có thể liên hệ ngay qua số: 02633 675 202.
 
 
 Đường vào thác pongaur là khung cảnh khá yên bình và nên thơ nếu bạn đi vào tháng 10 sẽ bắt gặp hình ảnh điệp vàng nở rộ tạo nên con đường cong cong dẫn vào thác một màu vàng ươm đẹp mắt đến ngỡ ngàng.
