@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://res.cloudinary.com/dz09rnbhe/image/upload/v1511348529/ori_qoyid7.jpg' title="Đà Lạt Share" tagline="Cảnh đẹp, Địa điểm, Ẩm thực.." />
+        <Header image='https://1.bp.blogspot.com/-UpmONz_L0s8/XAjZTLM5TtI/AAAAAAAAZtQ/BwcXQ0i_-z8wazlTltfnlQ9Mw9Ls2OkEgCLcBGAs/s640/Da-lat-4N3D-em-muon-di-ok-minh-cung-share-tien-nhau-di-00.jpg' title="Đà Lạt Share" tagline="Cảnh đẹp, Địa điểm, Ẩm thực.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
