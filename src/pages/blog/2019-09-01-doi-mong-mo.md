@@ -4,9 +4,9 @@ path: /doi-mong-mo
 title: Đồi Mộng Mơ Đà Lạt có gì mà ai cũng muốn tham quan?
 image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/doi-mong-mo-resort.jpg' 
 tags:
-  - Love
+  - Thien nhien
 uev: 4.18.6
-date: 2019-07-26T13:12:33.962Z
+date: 2019-09-01T13:12:33.962Z
 description:
 
 ---
@@ -74,20 +74,20 @@ Nếu bạn muốn nghỉ dưỡng trực tiếp tại Đồi Mộng Mơ thì c�
 
 **Có 5 loại phòng chính trong khu Resort**
 
-Phòng Double/Twin: 430.000/đêm
+Phòng Double/Twin: 430.000/đêm;
 
-Phòng Triple: 630.000/đêm
+Phòng Triple: 630.000/đêm;
 
-Phòng Quad: 820.000/đêm
+Phòng Quad: 820.000/đêm;
 
-Phòng Rose villa: 3.100.000/đêm
+Phòng Rose villa: 3.100.000/đêm;
 
-Phòng Extra person: 200.000/đêm
+Phòng Extra person: 200.000/đêm.
 
 
 **Giá vé đồi mộng mơ:**
 
-50.000đ/ người lớn trẻ em 20.000đ trẻ em dưới 0,8m được miễn phí vé vào cổng
+50.000đ/người lớn, trẻ em 20.000đ trẻ em dưới 0,8m được miễn phí vé vào cổng.
 
 **Đường đi Đồi Mộng Mơ**
 
