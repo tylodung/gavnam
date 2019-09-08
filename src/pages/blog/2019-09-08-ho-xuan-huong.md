@@ -6,7 +6,7 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/bai-co-bo-ho-xuan-huon
 tags:
   - Love
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
+date: 2019-09-08T13:12:33.962Z
 description:
 
 ---
@@ -19,7 +19,7 @@ Bất cứ du khách nào khi đến trung tâm thành phố Đà Lạt đều p
 Ai đến với trung tâm thành phố Đà Lạt đều phải ngỡ ngàng thốt lên rằng: Ôi! Tại sao thành phố này lại có thể đẹp đến thế! Đẹp mê hồn người lữ khách lỡ lạc bước tới nơi đây, đẹp cả trong con tim của người chưa được đến Đà Lạt bao giờ. Có phải chăng con người ta yêu Đà Lạt ngàn hoa bởi những dòng thác cuộn luôn tuôn trào hay ảo ảnh sương khói của hương hoa, của nước Hồ Xuân Hương trong xanh dịu mát.
 
 
-Khi đã đến Đà Lạt chớ quên ghé thăm hồ Xuân Hương. Vẻ đẹp hồ Xuân Hương đã làm say đắm biết bao nhà thơ, nhà văn. Bài thơ về Hồ Xuân Hương Đà Lạt hay nhất của nhà thơ Hàn Mặc Tử bạn có thể tham khảo :
+Khi đã đến Đà Lạt chớ quên ghé thăm hồ Xuân Hương. Vẻ đẹp hồ Xuân Hương đã làm say đắm biết bao nhà thơ, nhà văn. Bài thơ về Hồ Xuân Hương Đà Lạt hay nhất của nhà thơ Hàn Mặc Tử bạn có thể tham khảo:
 
 Ai hãy lặng thinh chớ nói nhiều
 
@@ -35,11 +35,11 @@ Nghe tới cái tên Hồ Xuân Hương chắc chắn rất nhiều người s�
 
 *Giả thiết đầu tiên*
 
-Tên gọi của Hồ có được vào năm 1953 được đặt theo tên của bà chúa thơ nôm nổi tiếng thế kỷ 19 của Việt Nam là nhà thơ Hồ Xuân Hương
+Tên gọi của Hồ có được vào năm 1953 được đặt theo tên của bà chúa thơ nôm nổi tiếng thế kỷ 19 của Việt Nam là nhà thơ Hồ Xuân Hương.
 
 *Giả thiết thứ 2*
 
-Đó chính là xung quanh Hồ Xuân Hương có rất nhiều loài hoa và cây cối vào mùa xuân hương hoa của các loài này quyện lại với nhau có hương thơm rất đặc biệt nên hồ có tên Hồ Xuân Hương từ đó
+Đó chính là xung quanh Hồ Xuân Hương có rất nhiều loài hoa và cây cối vào mùa xuân hương hoa của các loài này quyện lại với nhau có hương thơm rất đặc biệt nên hồ có tên Hồ Xuân Hương từ đó.
 
 **Lịch sử hình thành nên Hồ Xuân Hương**
 
@@ -81,17 +81,17 @@ Hay còn có tên gọi khách là sân golf Dalat Palace rộng 65ha ngoài là
 
 Mới xuất hiện được 3 năm nhưng với thiết kế đẹp cùng hàng trăm cây bon sai đẹp và giá cả hợp lý nhà hàng ngày càng thu hút khách, nhà hàng nằm đối diện vườn hoa thành phố
 
-Ngoài ra còn có các điểm siêu hot khác như
+**Ngoài ra còn có các điểm siêu hot khác như**
 
-Quảng Trường Lâm Viên
+Quảng Trường Lâm Viên;
 
-Công Viên Yersin
+Công Viên Yersin;
 
-Công Viên Bà Huyện Thanh Quan
+Công Viên Bà Huyện Thanh Quan;
 
-Xuân Hương Garden Cafe
+Xuân Hương Garden Cafe;
 
-Những điều bạn nên làm khi ghé Hồ Xuân Hương
+**Những điều bạn nên làm khi ghé Hồ Xuân Hương**
 
 Đi ngắm Hồ Xuân Hương về đêm: Nếu bạn đang có người yêu hãy rủ người ấy cùng đi dạo xung quanh hồ khi mệt hãy nghỉ chân bên gốc thông già, cùng tâm sự bao chuyện thế gian, cái không khí se lạnh của đà lạt sẽ thật lãng mạn đấy.
 
@@ -107,10 +107,10 @@ Những điều bạn nên làm khi ghé Hồ Xuân Hương
 
 Rất nhiều khách du lịch đà lạt có sở thích chọn khách sạn có view nhìn ra Hồ Xuân Hương sau đây chúng tôi sẽ liệt kê để bạn có thể lựa chọn.
 
-Khách sạn Ngọc Phát tiêu chuẩn 3 sao
+Khách sạn Ngọc Phát tiêu chuẩn 3 sao;
 
-Khách sạn Dalat Plaza tiêu chuẩn 3 sao
+Khách sạn Dalat Plaza tiêu chuẩn 3 sao;
 
-Khách sạn Thanh Thuỷ tiêu chuẩn 3 sao
+Khách sạn Thanh Thuỷ tiêu chuẩn 3 sao;
 
 Và rất nhiều khách sạn khác bạn có thể đọc thêm bài khách sạn ở đà lạt gần hồ xuân hương và khách sạn ở đà lạt gần chợ âm phủ để tìm cho mình một khách sạn tại đà lạt ưng ý.

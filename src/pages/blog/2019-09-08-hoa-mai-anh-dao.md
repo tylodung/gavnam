@@ -6,7 +6,7 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2018/12/mai-anh-da-lat-thang-1
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
+date: 2019-09-08T13:12:33.962Z
 description:
  
 ---
@@ -38,25 +38,25 @@ Mai Anh Đào thường nở đồng loạt, chi chít hoa từ gốc đến ng�
 
 Mai anh Đào không chỉ là niềm tự hào của mọi con người Đà Lạt mà nó còn là những kỷ niệm không thể nào phai nhạt của du khách khi may mắn được đặt chân tới thành phố Đà Lạt đúng mùa hoa nở.
 
-**Các con đường ngắm hoa mai anh đào đẹp nhất**
+## Các con đường ngắm hoa mai anh đào đẹp nhất
 
 Hoa mai anh đào có mặt ở khắp nơi nhưng nở rộ và trở thành những rừng hoa mai anh đào thì chỉ có ở những con đường sau:
 
 
-Đường Trần Hưng Đạo.
+**Đường Trần Hưng Đạo**
 
 Hoa mai anh đào nở rực hai bên đường dọc theo dãy biệt thự cổ Cadasa. Đây cũng là con đường có nhiều bạn trẻ và khách du lịch tới chụp hình úp Facebook nhiều nhất.
 
-Quanh hồ Xuân Hương.
+**Quanh hồ Xuân Hương.**
 
 Có rất nhiều cây mai anh đào cổ thụ ở quanh khu vực hồ Xuân Hương và khi chúng cùng nở rộ thì không gì có thể tả được.
 
 
-Khu vực Hồ Tuyền Lâm.
+**Khu vực Hồ Tuyền Lâm.**
 
 Là nơi sẽ tổ chức lễ hội hoa mai anh đào đà lạt 2018 nên chắc chắn nơi đây sẽ là địa điểm hấp dẫn không thể bỏ qua cho những người săn loài hoa này.
 
-Dốc Đa Quý.
+**Dốc Đa Quý.**
 
 Ai yêu loài hoa này cũng phải đến dốc Đa Quý, nơi mà hai bên đường hoa nở rộ và lâu tàn nhất đà lạt.
 
