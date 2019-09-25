@@ -4,9 +4,9 @@ path: /tiem-banh-coi-xay
 title: Tiệm bánh cối xay gió đà lạt điểm check in hot nhất Đà Lạt 2019
 image: 'https://i.ytimg.com/vi/XUPCLkWYFaU/maxresdefault.jpg' 
 tags:
-  - Love
+  - Dia diem
 uev: 4.18.6
-date: 2019-07-26T13:12:33.962Z
+date: 2019-09-25T13:12:33.962Z
 description:
  
 ---
