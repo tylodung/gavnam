@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='http://bao.click49.net/wp-content/uploads/2017/08/549424-004.jpg' title="Đà Lạt Share" tagline="Cảnh đẹp, Địa điểm, Ẩm thực.." />
+        <Header image='http://freshdalat.vn/wp-content/uploads/2019/06/coi-xay-gio-tai-fresh-garden-960x570.jpg' title="Đà Lạt Share" tagline="Cảnh đẹp, Địa điểm, Ẩm thực.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
