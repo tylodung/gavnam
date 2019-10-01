@@ -2,11 +2,11 @@
 templateKey: blog-post
 path: /f-canh-dong
 title: F Cánh Đồng Hoa Đà Lạt và Quán cà phê đang làm giới trẻ phát Sốt
-image: 'https://i.ytimg.com/vi/ncDcdTFGiR4/maxresdefault.jpg' 
+image: 'https://images.tintaynguyen.com/2018/02/bay-tren-nhung-canh-dong-hoa-da-lat.jpg' 
 tags:
-  - dia diem
+  - Dia diem
 uev: 4.18.6
-date: 2019-09-01T13:12:33.962Z
+date: 2019-10-01T13:12:33.962Z
 description:
 
 ---
@@ -57,7 +57,7 @@ Bạn cũng còn một đường khác đi tới quán cà phê này đó chính
 
 **Mua vé để đi xuống ngắm hoa và chụp hình trực tiếp**
 
-Quán đang phục vụ với menu phong phú gồm hơn 100 loại nước ép, sinh tố chế biến từ trái cây tươi ở đà lạt như dâu tây, chanh dây….và các món ăn nhanh như gà rán, pizza, gà nướng….
+Quán đang phục vụ với menu phong phú gồm hơn 100 loại nước ép, sinh tố chế biến từ trái cây tươi ở đà lạt như dâu tây, chanh dây….và các món ăn nhanh như gà rán, pizza, gà nướng...
 
 **Lưu ý khi tham quan**
 
