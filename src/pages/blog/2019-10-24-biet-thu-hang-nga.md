@@ -4,10 +4,10 @@ path: /biet-thu-hang-nga
 title: Tham quan Biệt Thự Hằng Nga – Crazy house Đà Lạt
 image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/biet-thu-hang-nga-du-lich-da-lat-4-ngay-3-dem.jpg' 
 tags:
-  - Love
+  - Dia diem
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
-description:
+date: 2019-10-24T13:12:33.962Z
+description: Khi suy nghĩ đến Thành Phố Đà Lạt, chắc hẳn các bạn sẽ nghĩ thành phố này là nơi của những biệt thự yên bình, cổ kính được bao quanh bởi rừng thông nhưng ở đây lại có một địa điểm khá “quái chiêu”, độc đáo.
  
 ---
 
@@ -20,7 +20,7 @@ Biệt thự Hằng Nga được xây dựng từ năm 1990 trên khuôn viên r
 
 **Giá vé:**
 
-Giá vé vào tham quan biệt thự hằng nga đà lạt: 40.000đ/ vé người lớn
+Giá vé vào tham quan biệt thự hằng nga đà lạt: 40.000đ/vé người lớn.
 
 **Đường đi**
 
