@@ -6,8 +6,8 @@ image: 'https://focusasiatravel.vn/wp-content/uploads/2018/08/Ch%C3%B9a-Linh-%E1
 tags:
   - Chua
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
-description:
+date: 2019-11-09T13:12:33.962Z
+description: Phật giáo đã từ lâu trở thành một tín ngưỡng rất phổ biến và in đậm vào mỗi cuộc sống của người dân Việt Nam từ hàng ngàn năm nay.
  
 ---
 

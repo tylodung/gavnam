@@ -6,8 +6,8 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/thac-voi-chua-linh-an.
 tags:
   - Chua
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
-description:
+date: 2019-11-09T13:12:33.962Z
+description: Chùa Linh Ẩn Lâm Đồng là ngôi chùa vô cùng nổi tiếng được rất nhiều du khách ưa thích.
 
 ---
 
