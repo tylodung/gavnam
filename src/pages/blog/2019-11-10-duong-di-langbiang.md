@@ -7,7 +7,7 @@ tags:
   - Thien nhien
 uev: 4.18.6
 date: 2019-11-10T13:12:33.962Z
-description: Langbiang ngọn núi nổi tiếng nhất thành phố Hoa điều du khách ưa thích nhất ở ngọn núi này đó chính là: Sự tích núi Langbiang, truyền thuyết núi Langbiang.
+description: Langbiang ngọn núi nổi tiếng nhất thành phố Hoa điều du khách ưa thích nhất ở ngọn núi này đó chính là Sự tích núi Langbiang, truyền thuyết núi Langbiang.
 
 ---
 
