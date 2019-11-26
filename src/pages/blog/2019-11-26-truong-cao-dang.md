@@ -4,10 +4,10 @@ path: /truong-cao-dang
 title: Trường Cao Đẳng Sư Phạm nơi chụp hình sống ảo nổi tiếng bậc nhất Đà Lạt
 image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/cao-dang-su-pham-da-lat-dia-diem-du-lich-da-lat-free.jpg' 
 tags:
-  - Love
+  - Dia diem
 uev: 4.18.6
-date: 2019-07-26T13:12:33.962Z
-description:
+date: 2019-11-26T13:12:33.962Z
+description: Bạn muốn tham quan Trường Cao Đẳng Sư Phạm Đà Lạt, cũng như địa chỉ và giờ mở cửa của ngôi trường có tuổi đời gần 100 năm này.
 
 ---
 
@@ -18,7 +18,7 @@ Bạn muốn tham quan Trường Cao Đẳng Sư Phạm Đà Lạt, cũng như �
 
 **Trường nằm ở đâu?**
 
-Trường có địa chỉ tại 29 Yersin thuộc phường 10 thành phố Đà Lạt tỉnh Lâm Đồng
+Trường có địa chỉ tại 29 Yersin thuộc phường 10 thành phố Đà Lạt tỉnh Lâm Đồng.
 
 **Đường đi**
 
@@ -31,7 +31,7 @@ Trường nằm gần các điểm du lịch nổi tiếng của Đà Lạt như
 
 **Số điện thoại:**
 
-Nếu bạn muốn tìm hiểu về các môn học để đăng ký học tại trường thì có thể liên hệ qua số: 02633 822 489 – Fax: 063-3 834 732
+Nếu bạn muốn tìm hiểu về các môn học để đăng ký học tại trường thì có thể liên hệ qua số: 02633 822 489 – Fax: 063-3 834 732.
 
 **Giá vé:**
 
