@@ -6,8 +6,8 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/doi-che-cau-dat-2-1.jp
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-06-22T13:12:33.962Z
-description:
+date: 2020-01-11T13:12:33.962Z
+description: Đồi chè cầu đất hiện ra trong khung cảnh thiên nhiên hài hòa giữa màu xanh dương của đám mây kết hợp với hình ảnh núi đồi rợp lên một màu xanh lá cây trải dài từ dãy này qua dãy khác..
 
 ---
 
@@ -17,11 +17,11 @@ description:
 Đồi chè cầu đất một trong những điểm du lịch hấp dẫn nhất từ trước đến nay được hàng nghìn du khách ghé đến tham quan chụp ảnh và còn là địa điểm của những cặp đôi đến đây để chụp ảnh cưới lưu niệm. Hãy cùng Hoa Dalat Travel tìm hiểu về đồi chè này trước khi đến đây tham quan nhé khách.
 
 
-Đồi chè cầu đất ở đâu?
+**Đồi chè cầu đất ở đâu?**
 
 Địa chỉ: Xuân trường. Tp Đà Lạt Lâm Đồng
 
-Chi tiết đường đi
+**Chi tiết đường đi**
 
 Nếu bạn đi tự túc thì có thể thuê xe máy và bắt đầu hành trình như sau:
 
@@ -46,7 +46,7 @@ Quãng đường đi chuyển khoảng gần 30km, bạn có thể đi theo bả
 
 
 
-Quá trình hình thành đồi chè cầu đất
+**Quá trình hình thành đồi chè cầu đất**
 
 Lịch sử ghi lại vào năm 1915 Bác sĩ Yersin đã khai hoang nên Đỉnh Hòn Bà tên gọi là cầu đất hiện nay, ông đã ươm các cây giống trị bệnh sốt rét canhkina và cây chè. Từ đó, vào năm 1927 người Pháp thấy được đất đai, khí hậu gió lộng cao trên 1650 m nơi đây thích hợp cho trồng cây chè trên đỉnh đồi này.
 
@@ -58,7 +58,7 @@ Năm 1960 cuộc chiến tranh ở nước ta đi đến đỉnh điểm thực 
 Về sau năm 1975 khi đất nước đã thống nhất hòa bình trở lại sở trà mới chính thức thuộc về sự quản lý của tỉnh lâm đồng. Đến năm 2015 seedcom mua lại sở cầu đất và đổi tên thành cầu đất Farm bắt đầu một bước tiến mới. Dù có chuyển đổi qua bao nhiêu chủ đi chăng nữa thì đồi chè cầu đât vẫn giữ nguyên giá trị lịch sử của nó không thay đổi.
 
 
-Du lịch đồi chè Cầu Đất
+**Du lịch đồi chè Cầu Đất**
 
 Nằm cách trung tâm thành phố 30km về hướng tây khoảng 45 phút đi xe trên một quãng đường dài xung quanh bao vây bởi rừng thông xanh, đến nơi du khách sẽ thấy trước mắt mình hiện ra một khoảng không gian mênh mông của đồi chè xanh mướt có diện tích rộng gần 220 héc ta, nơi ấy còn có một tác phẩm đã ghi dấu ấn gần 100 năm thành lập nên nhà máy trà cầu đất, bình trà ấy cao 2,6m ngang tận 7,1m và cân nặng lên đến 3 tấn, nếu có dịp đến đây tham quan chắc chắn các bạn sẽ thích thú khi tận mắt nhìn thấy hình ảnh này.
 
@@ -69,7 +69,7 @@ Và còn là nơi tham quan du lịch tại đà lạt của nhiều du khách t
 
 
 
-Chơi gì tại Đồi Chè Cầu Đất
+**Chơi gì tại Đồi Chè Cầu Đất**
 
 Đầu tiên là chụp hình, rất nhiều bức ảnh siêu Cool đã xuất hiện từ đây làm cư dân mạng điên đảo
 
@@ -83,7 +83,7 @@ Mọi người hãy yên tâm nhâm nhi những lá trà ngoài kia vì chúng l
 
 Đến rồi hãy mua cho mình một gói trà sản phẩm của đồi chè đem về biếu cho người thân mình làm quà nhé.
 
-Cafe đồi chè Cầu Đất
+**Cafe đồi chè Cầu Đất**
 
 Nếu đã tới đây rồi thì đừng quên ghé vào quán cà phê Container do Cầu Đất Farm xây dựng nhé. View bao đẹp giúp bạn có thêm rất nhiều khung hình đẹp để sống ảo nữa đấy.
 
@@ -113,6 +113,6 @@ Trà cổ Cầu Đất: 25.000đ
 Bánh mì que: 20.000đ
 
 
-Phượt đồi chè cầu đất
+**Phượt đồi chè cầu đất**
 
 Rất nhiều nhóm phượt từ khắp nơi trên đất nước đã đến phượt đồi chè cầu đất nổi tiếng này, nếu bạn muốn tự mình đi phượt rất đơn giản chỉ cần thuê một chiếc xe máy, cầm một tấm bản đồ tp đà lạt và bắt đầu hành trình thôi.

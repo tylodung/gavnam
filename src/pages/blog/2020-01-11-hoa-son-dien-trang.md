@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 path: /hoa-son-dien-trang
-title: Hoa Sơn Điền Trang điểm check in mới cực Hot ở Đà Lạt 2019
+title: Hoa Sơn Điền Trang điểm check in mới cực Hot ở Đà Lạt 2020
 image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/hoa-son-dien-trang-dia-diem-moi-da-lat.jpg' 
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-06-22T13:12:33.962Z
-description:
+date: 2020-01-11T13:12:33.962Z
+description: Một địa điểm check in Đà Lạt mới cực hot đang làm mưa gió trên mạng xã hội Facebook đang chờ bạn khám phá.
  
 ---
 
@@ -17,7 +17,7 @@ Do không nằm ở trong trung tâm nên đầu tiên bạn cần biết địa
 
 Điểm tham quan này nằm ở tỉnh lộ 725 đèo Tà Nung thuộc tiểu khu 159, phường 5 cách trung tâm thành phố ngàn hoa mộng mơ khoảng 7km.
 
-Đường đi chi tiết đến Hoa Sơn Điền Trang
+**Đường đi chi tiết đến Hoa Sơn Điền Trang**
 
 Do mới được làm mới nên đường đi đến Hoa Sơn Điền Trang rất đẹp dù bạn đi xe máy, ô tô 4 tới 45 chỗ đều vào đến tận nơi khu du lịch này, không khó khăn như khi tham quan Linh Quy Pháp Ấn đâu nhé.
 
@@ -26,7 +26,7 @@ Từ trung tâm thành phố khu Hòa Bình bạn đi theo đường 3/2 => đư
 
 
 
-Tham quan Hoa Sơn Điền Trang Đà Lạt
+**Tham quan Hoa Sơn Điền Trang Đà Lạt**
 
 Sau khi đến nơi thì những nơi nào mà bạn nên tham quan trong khu du lịch này:
 
@@ -36,7 +36,7 @@ Bàn tay Phật khổng lồ
 
 Địa điểm này mà không làm vài tấm để khoe với bạn bè thì hơi phí đó nha.
 
-Các điểm còn lại trong sơn trang
+**Các điểm còn lại trong sơn trang**
 
 Hoa Anh Đào được lấy cây lớn trực tiếp từ Nhật Bản: khi nở rộ vào tháng 1 đến đến checkin bạn bè chắc chắn sẽ ngỡ rằng bạn đang vivu ở tận xứ mặt trời mọc.
 
@@ -55,7 +55,7 @@ Nhà gỗ trên cây
 Thác nước và nhiều tiểu cảnh ở quanh hồ
 
 
-Giá vé
+**Giá vé**
 
 Sau đây là bảng giá các loại vé được sử dụng trong khu du lịch Hoa Sơn Điền Trang cho bạn tham khảo.
 
