@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 path: /ho-tuyen-lam
-title: Hồ Tuyền Lâm Đà Lạt có gì mà các bạn trẻ đua nhau tới đây sống ảo
+title: Hồ Tuyền Lâm Đà Lạt có gì mà các bạn trẻ đua nhau tới đây sống ảo?
 image: 'https://i.ytimg.com/vi/H9F9tLNf6TA/maxresdefault.jpg' 
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-06-22T13:12:33.962Z
-description:
+date: 2020-01-12T13:12:33.962Z
+description: Hồ Tuyền Lâm đang là một trong những địa điểm vô cùng thu hút khách du lịch tại thành phố ngàn thông đà lạt.
  
 ---
 
@@ -24,7 +24,7 @@ Từ năm 1982 đến năm 1987, Ty Thuỷ lợi Lâm Đồng, được Bộ Thu
 Ngày 30-8-1998, Bộ Văn hoá – Thông tin ra Quyết định số 1811/QĐ/BT công nhận hồ Tuyền Lâm là Di tích Lịch sử – Văn hoá.
 
 
-HỒ TUYỀN LÂM HIỆN NAY
+**HỒ TUYỀN LÂM HIỆN NAY**
 
 Hồ Tuyền Lâm có diện tích hơn 350ha, độ sâu có nơi trên 30m. Nước hồ chảy qua một đập tràn 6 bậc và cung cấp nước tưới cho vùng đất dưới chân khu du lịch thác Prenn (huyện Đức Trọng) vào mùa khô. Vào ngày 15/2/2017 hồ Tuyền Lâm đã được công nhận là thắng cảnh Quốc Gia.
 
@@ -32,7 +32,7 @@ Hồ Tuyền Lâm có diện tích hơn 350ha, độ sâu có nơi trên 30m. N�
 Những đồi thông xanh, mặt nước hồ Tuyền Lâm thấp thoáng qua hàng cây.
 
 
-HỒ TUYỀN LÂM TRONG TƯƠNG LAI
+**HỒ TUYỀN LÂM TRONG TƯƠNG LAI**
 
 Trong tương lai, Khu du lịch hồ Tuyền Lâm sẽ trở thành một khu du lịch sinh thái, nghỉ dưỡng, hội thảo hiện đại, sang trọng, đồng thời vẫn giữ nguyên môi trường vốn có. Ý tưởng này đã được Uỷ ban nhân dân tỉnh Lâm Đồng ban hành Quyết định phê duyệt dự án điều chỉnh quy hoạch khu du lịch hồ Tuyền Lâm đến năm 2010 và tầm nhìn đến năm 2020.
 

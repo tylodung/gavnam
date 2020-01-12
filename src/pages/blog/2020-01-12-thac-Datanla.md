@@ -6,8 +6,8 @@ image: 'https://dulichtoday.vn/wp-content/uploads/2019/01/thac-datanla-co-gi-cho
 tags:
   - Thien nhien
 uev: 4.18.6
-date: 2019-06-22T13:12:33.962Z
-description:
+date: 2020-01-12T13:12:33.962Z
+description: Nếu bạn đang tìm một thác nước đẹp nằm ngay ở trong thành phố Đà Lạt thơ mộng thì sẽ không ngần ngại giới thiệu đến bạn Thác Datanla.
 
 ---
 
@@ -17,7 +17,7 @@ Thác Datanla có lượng nước dồi dào do thượng nguồn là nguồn n
 
 Theo truyền thuyết, do thác có vực sâu nằm lọt thỏm giữa một vùng đồi núi nên đã từng là nơi lánh nạn của một cánh quân của người dân tộc bản địa trong các cuộc chiến tranh với người Chăm từ cách đây hàng trăm năm trở về trước. Nhờ có ngọn thác này nên một cánh quân đã trụ lại và bảo toàn được lực lượng.
 
-Truyền thuyết 1
+**Truyền thuyết 1**
 
 Đatanla là nơi dũng sĩ K`Lang và nàng sơn cước Hơbiang gặp nhau. Nơi đây, chàng Lang đã giao chiến với bầy thú dữ gồm 2 con rắn hổ tinh, 7 con chó sói và 2 con cáo.
 
@@ -28,18 +28,18 @@ Lợi dụng lúc 2 con rắn lè lưỡi, Lang rút dao đi rừng chặt đứ
 Khoảng rừng cây bị đổ phá tạo nên những hố sâu mà một trong những hố sâu ấy là vực Tử Thần ở chân thác. Từ đó Đatanla là nơi hẹn hò của đôi tình nhân và về sau tạo nên truyền thuyết Núi LangBiang huyền thoại.
 
 
-Truyền thuyết 2
+**Truyền thuyết 2**
 
 Truyền thuyết kể rằng, Đatanla còn là thác mà các nàng tiên thường hay xuống tắm vì có dòng nước trong vắt, được che phủ bởi nhiều tầng lá. Vì không biết là dưới lá có nước nên khi phát hiện ra con thác, bà con dân tộc thiểu số đặc tên cho nó là “Đạ Tam Nnha” có nghĩa là “dưới lá có nước”. Sau này khi người Pháp và người Kinh đặt chân lên vùng cao nguyên đầy trữ tình này thì biến âm thành Đatina rồi là Datanla.
 
-Truyền thuyết 3
+**Truyền thuyết 3**
 
 Có truyền thuyết kể lại rằng, vào thời Pôrêmê, người Chăm từ Panduranga (Phan Rang) thường kéo lên tấn công người Lạt, người Chil ở cao nguyên Lang Biang để giành đất và bắt nô lệ. Trong lúc người Lạch sắp thua vì thiếu “cái nước” thì tình cờ họ phát hiện ra dòng thác này và có nước uống, nên người Lạt đã chiến thắng và bảo vệ được buôn làng. Còn người Chăm thua vì họ không biết “dưới lá có nước”.
 
 Từ đó bà con bộ tộc Lạt đặt tên là “Đạ Tam Nha” (dưới lá có nước) để nhắn nhủ với con cháu sau này.”
 
 
-Trò chơi ở thác Datanla Đà Lạt
+**Trò chơi ở thác Datanla Đà Lạt**
 
 1. Đi máng trượt
 
@@ -88,7 +88,7 @@ Vượt qua khoá huấn luyện bạn sẽ bắt đầu chơi với các trò �
 
 Thật tuyệt vời khi có thể đi đến cấp độ cuối cùng chứng tỏ bạn có một tinh thần tốt và một thể lực tuyệt vời.
 
-Thông tin về khu du lịch thác Datanla
+**Thông tin về khu du lịch thác Datanla**
 
 1. Giá vé thác Datanla
 
