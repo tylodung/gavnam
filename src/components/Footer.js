@@ -5,7 +5,7 @@ const Footer = () =>
     <footer className="site-footer outer">
         <div className="site-footer-content inner">
             <section className="copyright">
-                <Link to="/">Apsys.info</Link> | Đà Lạt 
+                <Link to="/">Apsys.info</Link> Copyright © ® ™ Cộng đồng Đà Lạt 
             </section>
             <nav>
                 <a className="social-logo" href="https://youtu.be/N4WTi9EHLqA" >

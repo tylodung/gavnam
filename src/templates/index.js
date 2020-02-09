@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://luhanhtour.com/wp-content/uploads/2018/12/8-1280x800.jpg' title="Đà Lạt " tagline="Cảnh đẹp, Địa điểm, Ẩm thực.." />
+        <Header image='https://luhanhtour.com/wp-content/uploads/2018/12/8-1280x800.jpg' title="Cộng đồng Đà Lạt" tagline="Cảnh đẹp, Địa điểm, Ẩm thực.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
